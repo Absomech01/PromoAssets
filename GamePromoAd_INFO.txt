@@ -29,8 +29,49 @@ ASIN=B0D3VFBMMC
 STOREURL=https://www.amazon.com/Last-War-Survival-Rush-Whiteout/dp/B0D3VFBMMC
 
 # APP 6
-PACKAGE=com.gg.lastwarsurvival.army.rush.battle.game
-NAME=Last War Survival Rush
-ASIN=B0D3VFBMMC
-STOREURL=https://www.amazon.com/Last-War-Survival-Rush-Whiteout/dp/B0D3VFBMMC
+PACKAGE=com.gg.survivalescape.prison.master.survivor.battle
+NAME=456 Survival Escape Run Challenge
+ASIN=B0DXF85KSR
+STOREURL=https://www.amazon.com/456-Survival-Escape-Run-Challenge/dp/B0DXF85KSR
 
+# APP 7
+PACKAGE=com.gg.tricky.prank.master.braintest.puzzles.annoying.quest
+NAME=Brain Puzzle Tricky Quest
+ASIN=B0FT3WQFV8
+STOREURL=https://www.amazon.com/Brain-Puzzle-Tricky-Annoying-Master/dp/B0FT3WQFV8
+
+# APP 8
+PACKAGE=com.gg.barry.prisonescape.jailbreak.survival.game
+NAME=Prison Escape Jailbreak Run Challenge
+ASIN=B0FNT1DQBD
+STOREURL=https://www.amazon.com/Prison-Escape-Jailbreak-Run-Challenge/dp/B0FNT1DQBD
+
+# APP 9
+PACKAGE=com.gg.toilet.pee.rush.draw.run.master
+NAME=Toilet Rush Race Draw Puzzle
+ASIN=B0BTLNZQGM
+STOREURL=https://www.amazon.com/Toilet-Rush-Draw-Puzzle-Master/dp/B0BTLNZQGM
+
+# APP 10
+PACKAGE=com.geniusapps.money.math.run.coin.count.race
+NAME=Money Rush 3D Cash Tycoon
+ASIN=B09T3T443L
+STOREURL=https://www.amazon.com/Money-Stack-Rush-Count-Coins/dp/B09T3T443L
+
+# APP 11
+PACKAGE=com.gg.prisonpuzzle.trick.quest.challenge.brain.puzzle
+NAME=Prison Puzzle Tricky Quest
+ASIN=B0GCBT86LM
+STOREURL=https://www.amazon.com/Prison-Puzzle-Tricky-Quest-Challenge/dp/B0GCBT86LM
+
+# APP 12
+PACKAGE=com.gg.dream.wedding.bride.rush.match.puzzle
+NAME=Wedding Rush Bridal Race
+ASIN=B0D47LC34Q
+STOREURL=https://www.amazon.com/Wedding-Rush-Bridal-Race-Puzzle/dp/B0D47LC34Q
+
+# APP 13
+PACKAGE=com.geniusapps.parents.rush.baby.career.race
+NAME=Parents Future Run
+ASIN=B09YNS4VG3
+STOREURL=https://www.amazon.com/Parents-Future-Baby-Career-Runner/dp/B09YNS4VG3
