@@ -75,3 +75,105 @@ PACKAGE=com.geniusapps.parents.rush.baby.career.race
 NAME=Parents Future Run
 ASIN=B09YNS4VG3
 STOREURL=https://www.amazon.com/Parents-Future-Baby-Career-Runner/dp/B09YNS4VG3
+
+# APP 14
+PACKAGE=com.geniusapps.twerk.rush.body.runner.race
+NAME=Twerk Race 3D Twerking Battle
+ASIN=B09TTKJ11C
+STOREURL=https://www.amazon.com/Twerk-Runner-Twerking-Dance-Master/dp/B09TTKJ11C
+
+# APP 15
+PACKAGE=com.geniusapps.perfect.hair.runner.makeover.rush
+NAME=Hair Challenge Fashion Catwalk Master
+ASIN=B09YRSVMQV
+STOREURL=https://www.amazon.com/Perfect-Runner-Colors-Makeover-Challenge/dp/B09YRSVMQV
+
+# APP 16
+PACKAGE=com.gg.hexasort.color.slide.sort.puzzle.master.brain.game
+NAME=Hexa Puzzle 3D Sort Master
+ASIN=B0G66P259G
+STOREURL=https://www.amazon.com/Hexa-Puzzle-Master-Color-Slide/dp/B0G66P259G
+
+# APP 17
+PACKAGE=com.geniusapps.flex.body.runner.yog.race
+NAME= Flex Run Master Yoga Couple Rush
+ASIN= B09QL3X73K
+STOREURL=https://www.amazon.com/Flex-Challenge-Couple-Twerk-Runner/dp/B09QL3X73K
+
+# APP 18
+PACKAGE=com.gg.coloring.pages.master.colorpage.painting.book
+NAME=Coloring Pages Master Paint ASMR
+ASIN=B0FGKQXG3C
+STOREURL=https://www.amazon.com/Coloring-Pages-Master-Paint-ASMR/dp/B0FGKQXG3C
+
+# APP 19
+PACKAGE=com.gg.diy.fashion.bra.dress.makeover.game
+NAME=Bra Maker Fashion Stylist
+ASIN=B0BF5TGP9K
+STOREURL=https://www.amazon.com/Perfect-Fantasy-Bra-Making-Fashion-Makeover/dp/B0BF5TGP9K
+
+# APP 20
+PACKAGE=com.gg.mergefellas.brainrot.memepuzzle.capybara.master
+NAME=Brainrot Merge Fellas Drop Puzzle
+ASIN=B0FFHJY4V6
+STOREURL=https://www.amazon.com/Brainrot-Merge-Fellas-Puzzle-Master/dp/B0FFHJY4V6
+
+# APP 21
+PACKAGE=com.geniusapps.tie.outfit.dye.makerover.shop
+NAME=Tie Dye Fashion Makeover Coloring
+ASIN=B0B85BGYDL
+STOREURL=https://www.amazon.com/Makeover-Fashion-Outfit-Makeup-Artist/dp/B0B85BGYDL
+
+# APP 22
+PACKAGE=com.gg.animalshelter.animal.rescue.story.simulator.game
+NAME=Animal Shelter Rescue Story Simulator
+ASIN=B0GZ3PZ9FD
+STOREURL=https://www.amazon.com/Animal-Shelter-Rescue-Story-Simulator/dp/B0GZ3PZ9FD
+
+# APP 23
+PACKAGE=com.geniusapps.pizza.longstack.maker.rush
+NAME=Pizza Stack Runner 3D Restaurant Rush
+ASIN=B09SKR973S
+STOREURL=https://www.amazon.com/Pizza-Stack-Bridge-Runner-Maker/dp/B09SKR973S
+
+# APP 24
+PACKAGE=com.geniusapps.colors.mix.color.matching.game
+NAME=Color Matching Mix Colors Puzzle
+ASIN=B0B4291GY1
+STOREURL=https://www.amazon.com/Matching-Colors-Mixing-Painting-Objects/dp/B0B4291GY1
+
+# APP 25
+PACKAGE=com.gg.people.runrace.challenge.draw.path.master
+NAME=Block Run Race 3D Draw Master
+ASIN=B0GDQPL36Y
+STOREURL=https://www.amazon.com/Block-Run-Race-Draw-Master/dp/B0GDQPL36Y
+
+# APP 26
+PACKAGE=com.geniusapps.zodiac.rush.honey.sign.run
+NAME=Zodiac Runner 3D Destiny Rush
+ASIN=B09QQQZGLD
+STOREURL=https://www.amazon.com/Zodiac-Signs-Runner-Truth-Horoscope/dp/B09QQQZGLD
+
+# APP 27
+PACKAGE=com.geniusapps.DeliverThemOff.Packages.Delivery.Game
+NAME=Deliver It 3D Delivery Rush
+ASIN=B0B216NXQY
+STOREURL=https://www.amazon.com/Deliver-Parcels-Express-Delivery-Challenge/dp/B0B216NXQY
+
+# APP 28
+PACKAGE=com.geniusapps.shoes.luxury.rush.evolution.run
+NAME=Shoe Evolution Rush Race
+ASIN=B0B49WSMGF
+STOREURL=https://www.amazon.com/Shoes-Rush-Evolution-Luxury-Runner/dp/B0B49WSMGF
+
+# APP 29
+PACKAGE=com.geniusapps.fantasy.wedding.theme.run.game
+NAME=Dream Wedding Build Rush
+ASIN=B0B4T2HMPT
+STOREURL=https://www.amazon.com/Fantasy-Wedding-Runner-Dream-Bridal/dp/B0B4T2HMPT
+
+# APP 30
+PACKAGE=com.geniusapps.fairy.runner.genetic.merge.rush
+NAME=Fairy Run Genetic Fusion Evolution
+ASIN=B0B8DTVKQS
+STOREURL=https://www.amazon.com/Fairy-Runner-Genetic-Merge-3D/dp/B0B8DTVKQS
