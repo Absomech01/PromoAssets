@@ -28,3 +28,9 @@ NAME=Last War Survival Rush
 ASIN=B0D3VFBMMC
 STOREURL=https://www.amazon.com/Last-War-Survival-Rush-Whiteout/dp/B0D3VFBMMC
 
+# APP 6
+PACKAGE=com.gg.lastwarsurvival.army.rush.battle.game
+NAME=Last War Survival Rush
+ASIN=B0D3VFBMMC
+STOREURL=https://www.amazon.com/Last-War-Survival-Rush-Whiteout/dp/B0D3VFBMMC
+
